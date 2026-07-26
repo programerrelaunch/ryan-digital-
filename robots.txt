@@ -1,0 +1,5 @@
+# https://ryan-digital.vercel.app/
+User-agent: *
+Allow: /
+
+Sitemap: https://ryan-digital.vercel.app/sitemap.xml

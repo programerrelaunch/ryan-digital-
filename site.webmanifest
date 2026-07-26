@@ -1,0 +1,18 @@
+{
+  "name": "Ryan Barroga – Full Stack Engineer & Web Designer",
+  "short_name": "Ryan Barroga",
+  "description": "Portfolio of Ryan Barroga — full stack engineer and web designer building modern, high-performance websites, apps, and brand experiences.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
